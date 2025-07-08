@@ -13,7 +13,7 @@ Aquí comparto notas, ideas y conocimientos que están en constante crecimiento.
 
 - 📚 [[Notas de aprendizaje\|Notas de aprendizaje]]
 - 💡 [[Ideas en desarrollo\|Ideas en desarrollo]]
-- 🧰 [[Recursos útiles\|Recursos útiles]]
+- 🧰 [[garden/Recursos útiles\|Recursos útiles]]
 - 🗺️ [[Mapa de contenidos\|Mapa de contenidos]]
 
 ---
