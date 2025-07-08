@@ -4,6 +4,7 @@
 
 
 ### Web apps de diseño
+- Photopea
 
 ### Fuentes tipográficas
 

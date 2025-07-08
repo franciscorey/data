@@ -7,6 +7,8 @@
 
 Aquí comparto notas, ideas y conocimientos que están en constante crecimiento. Este es un espacio para pensar en voz alta, vincular ideas y explorar el aprendizaje en público.
 
+:)
+
 ---
 
 ## 🌐 Secciones destacadas
