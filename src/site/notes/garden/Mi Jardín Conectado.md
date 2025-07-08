@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/garden/mi-jardin-conectado/","title":"Bienvenido a mi Jardín Digital","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/garden/Mi Jardín Conectado/","title":"Bienvenido a mi Jardín Digital","tags":["gardenEntry"]}
 ---
 
 
@@ -7,7 +7,7 @@
 
 Aquí comparto notas, ideas y conocimientos que están en constante crecimiento. Este es un espacio para pensar en voz alta, vincular ideas y explorar el aprendizaje en público.
 
-:)
+Plop
 
 ---
 
