@@ -23,4 +23,88 @@
         "respuesta": "Tokio",
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg"
     }
+    {
+    "pregunta": "¿Cuál es el país más grande del mundo en términos de superficie?",
+    "opciones": ["Rusia", "Canadá", "China", "Estados Unidos"],
+    "respuesta": "Rusia",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Russia_map.png"
+  },
+  {
+    "pregunta": "¿Qué país es conocido como la Tierra del Sol Naciente?",
+    "opciones": ["Japón", "China", "Corea del Sur", "Tailandia"],
+    "respuesta": "Japón",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Japan.svg"
+  },
+  {
+    "pregunta": "¿Cuál es el río más largo del mundo?",
+    "opciones": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+    "respuesta": "Amazonas",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Rio_Amazonas.jpg"
+  },
+  {
+    "pregunta": "¿En qué país se encuentra la ciudad de Petra?",
+    "opciones": ["Jordania", "Egipto", "Irak", "Siria"],
+    "respuesta": "Jordania",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Petra_Jordan.jpg"
+  },
+  {
+    "pregunta": "¿Quién pintó la 'Guernica'?",
+    "opciones": ["Pablo Picasso", "Salvador Dalí", "Francisco Goya", "Diego Rivera"],
+    "respuesta": "Pablo Picasso",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/74/PicassoGuernica.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Australia?",
+    "opciones": ["Canberra", "Sídney", "Melbourne", "Brisbane"],
+    "respuesta": "Canberra",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Canberra_-_Australia.jpg"
+  },
+  {
+    "pregunta": "¿En qué año llegó el hombre a la Luna?",
+    "opciones": ["1965", "1969", "1972", "1975"],
+    "respuesta": "1969",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Apollo_11_Landing.jpg"
+  },
+  {
+    "pregunta": "¿Quién escribió 'Don Quijote de la Mancha'?",
+    "opciones": ["Miguel de Cervantes", "Gabriel García Márquez", "Jorge Luis Borges", "Mario Vargas Llosa"],
+    "respuesta": "Miguel de Cervantes",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Miguel_de_Cervantes.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es el continente más pequeño del mundo?",
+    "opciones": ["Oceanía", "Asia", "Europa", "Antártida"],
+    "respuesta": "Oceanía",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Oceania_map.png"
+  },
+  {
+    "pregunta": "¿Qué instrumento musical tiene 88 teclas?",
+    "opciones": ["Piano", "Órgano", "Teclado", "Clavicémbalo"],
+    "respuesta": "Piano",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Piano_Keyboard.jpg"
+  },
+  {
+    "pregunta": "¿En qué país se originó el sushi?",
+    "opciones": ["Japón", "China", "Corea del Sur", "Tailandia"],
+    "respuesta": "Japón",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Sushi_platter.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es el océano más grande del mundo?",
+    "opciones": ["Océano Pacífico", "Océano Atlántico", "Océano Índico", "Océano Ártico"],
+    "respuesta": "Océano Pacífico",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Pacific_Ocean_map.png"
+  },
+  {
+    "pregunta": "¿Qué país tiene forma de bota?",
+    "opciones": ["Italia", "Chile", "Noruega", "Grecia"],
+    "respuesta": "Italia",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/03/Italy_map.png"
+  },
+  {
+    "pregunta": "¿Quién fue el primer presidente de Estados Unidos?",
+    "opciones": ["George Washington", "Abraham Lincoln", "Thomas Jefferson", "John Adams"],
+    "respuesta": "George Washington",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5f/George_Washington_by_Gilbert_Stuart%2C_1796.jpg"
+  }
 ]
