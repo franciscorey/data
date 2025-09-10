@@ -1,0 +1,26 @@
+[
+    {
+        "pregunta": "¿Qué filósofo griego fue maestro de Alejandro Magno?",
+        "opciones": ["Sócrates", "Platón", "Aristóteles"],
+        "respuesta": "Aristóteles",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg"
+    },
+    {
+        "pregunta": "¿En qué año llegó el hombre a la Luna?",
+        "opciones": ["1965", "1969", "1972"],
+        "respuesta": "1969",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/98/Aldrin_Apollo_11_original.jpg"
+    },
+    {
+        "pregunta": "¿Quién pintó la 'Mona Lisa'?",
+        "opciones": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci"],
+        "respuesta": "Leonardo da Vinci",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/687px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg"
+    },
+    {
+        "pregunta": "¿Cuál es la capital de Japón?",
+        "opciones": ["Kioto", "Osaka", "Tokio"],
+        "respuesta": "Tokio",
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg"
+    }
+]
