@@ -22,7 +22,7 @@
         "opciones": ["Kioto", "Osaka", "Tokio"],
         "respuesta": "Tokio",
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg"
-    }
+    },
     {
     "pregunta": "¿Cuál es el país más grande del mundo en términos de superficie?",
     "opciones": ["Rusia", "Canadá", "China", "Estados Unidos"],
