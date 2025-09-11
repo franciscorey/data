@@ -9,13 +9,13 @@
     "pregunta": "¿En qué año llegó el hombre a la Luna?",
     "opciones": ["1965", "1969", "1972"],
     "respuesta": "1969",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/99/Apollo_11_Lunar_Module_on_the_Moon.jpg"
+    "imagen": "https://www.muyinteresante.com/wp-content/uploads/sites/5/2024/07/21/669cf5b4661c8.jpeg"
   },
   {
     "pregunta": "¿Quién pintó la 'Mona Lisa'?",
     "opciones": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci"],
     "respuesta": "Leonardo da Vinci",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Leonardo_da_Vinci_-_Mona_Lisa_%28Louvre%2C_Paris%29.jpg/960px-Leonardo_da_Vinci_-_Mona_Lisa_%28Louvre%2C_Paris%29.jpg"
   },
   {
     "pregunta": "¿Cuál es la capital de Japón?",
