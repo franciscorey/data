@@ -1,63 +1,63 @@
 [
-    {
-        "pregunta": "¿Qué filósofo griego fue maestro de Alejandro Magno?",
-        "opciones": ["Sócrates", "Platón", "Aristóteles"],
-        "respuesta": "Aristóteles",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg"
-    },
-    {
-        "pregunta": "¿En qué año llegó el hombre a la Luna?",
-        "opciones": ["1965", "1969", "1972"],
-        "respuesta": "1969",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/98/Aldrin_Apollo_11_original.jpg"
-    },
-    {
-        "pregunta": "¿Quién pintó la 'Mona Lisa'?",
-        "opciones": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci"],
-        "respuesta": "Leonardo da Vinci",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/687px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg"
-    },
-    {
-        "pregunta": "¿Cuál es la capital de Japón?",
-        "opciones": ["Kioto", "Osaka", "Tokio"],
-        "respuesta": "Tokio",
-        "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Skyscrapers_of_Shinjuku_2009_January.jpg"
-    },
-      {
-    "pregunta": "¿Cuál es el país más grande del mundo en términos de superficie?",
+  {
+    "pregunta": "¿Qué filósofo griego fue maestro de Alejandro Magno?",
+    "opciones": ["Sócrates", "Platón", "Aristóteles"],
+    "respuesta": "Aristóteles",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Aristotle_Altemps_Inv8575.jpg"
+  },
+  {
+    "pregunta": "¿En qué año llegó el hombre a la Luna?",
+    "opciones": ["1965", "1969", "1972"],
+    "respuesta": "1969",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/99/Apollo_11_Lunar_Module_on_the_Moon.jpg"
+  },
+  {
+    "pregunta": "¿Quién pintó la 'Mona Lisa'?",
+    "opciones": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci"],
+    "respuesta": "Leonardo da Vinci",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es la capital de Japón?",
+    "opciones": ["Kioto", "Osaka", "Tokio"],
+    "respuesta": "Tokio",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/16/Tokyo_Montage_2015.jpg"
+  },
+  {
+    "pregunta": "¿Cuál es el país con la mayor superficie en el mundo?",
     "opciones": ["Rusia", "Canadá", "China"],
     "respuesta": "Rusia",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Russia.svg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Russia_%28orthographic_projection%29.svg"
   },
   {
     "pregunta": "¿En qué continente se encuentra el desierto del Sahara?",
     "opciones": ["Asia", "África", "América del Sur"],
     "respuesta": "África",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Sahara_Dunes.jpg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/7/7c/ErgChebbi.jpg"
   },
   {
     "pregunta": "¿Cuál es el río más largo del mundo?",
     "opciones": ["Amazonas", "Nilo", "Yangtsé"],
     "respuesta": "Amazonas",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Rio_Amazonas.jpg"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Amazon_CIAT_%282%29.jpg/1200px-Amazon_CIAT_%282%29.jpg"
   },
   {
     "pregunta": "¿Cuál es el océano más grande del mundo?",
     "opciones": ["Atlántico", "Índico", "Pacífico"],
     "respuesta": "Pacífico",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Pacific_Ocean_map.png"
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Atlantic_near_Faroe_Islands.jpg/1200px-Atlantic_near_Faroe_Islands.jpg"
   },
   {
     "pregunta": "¿Qué instrumento musical tiene 88 teclas?",
     "opciones": ["Piano", "Órgano", "Teclado"],
     "respuesta": "Piano",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Piano_Keyboard.jpg"
+    "imagen": "https://i.pinimg.com/736x/b5/79/e1/b579e18d8aa5e0525d0d516f9dd15740.jpg"
   },
   {
     "pregunta": "¿Quién escribió 'Don Quijote de la Mancha'?",
     "opciones": ["Miguel de Cervantes", "Gabriel García Márquez", "Jorge Luis Borges"],
     "respuesta": "Miguel de Cervantes",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Miguel_de_Cervantes.jpg"
+    "imagen": "https://www.cervantesvirtual.com/images/qbi/grande/0030410065.jpg"
   },
   {
     "pregunta": "¿Qué país es conocido como la Tierra del Sol Naciente?",
@@ -69,30 +69,30 @@
     "pregunta": "¿En qué ciudad se encuentra la Torre Eiffel?",
     "opciones": ["Londres", "Roma", "París"],
     "respuesta": "París",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Eiffel_Tower_2013.jpg"
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCPu-jmWD8vysHMcKf3eyup8Fn7akFUlqwVQ&s"
   },
   {
     "pregunta": "¿Cuál es el continente más pequeño del mundo?",
     "opciones": ["Asia", "Antártida", "Oceanía"],
     "respuesta": "Oceanía",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Oceania_map.png"
+    "imagen": "https://imagenes.serpadres.es/uploads/2024/01/15/65a51196d7ca0.jpeg"
   },
   {
     "pregunta": "¿Qué elemento químico tiene el símbolo 'O'?",
     "opciones": ["Oxígeno", "Osmio", "Oro"],
     "respuesta": "Oxígeno",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/89/Oxygen-atom-3D-vdW.png"
+    "imagen": "https://clickmica.fundaciondescubre.es/files/2017/01/quimica-3-768x549.jpg"
   },
   {
     "pregunta": "¿Quién fue el primer presidente de Estados Unidos?",
     "opciones": ["Abraham Lincoln", "George Washington", "Thomas Jefferson"],
     "respuesta": "George Washington",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/6f/George_Washington_by_Gilbert_Stuart%2C_1797.jpg"
+    "imagen": "https://mytpl.org/wp-content/uploads/Washington-at-the-Constitutional-Convention.jpg"
   },
   {
     "pregunta": "¿Cuál es el país más poblado del mundo?",
     "opciones": ["India", "China", "Estados Unidos"],
     "respuesta": "China",
-    "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_China.svg"
+    "imagen": "https://img.freepik.com/premium-photo/crowd-people-are-gathered-around-globe-with-earth-it_1295705-12361.jpg"
   }
 ]
