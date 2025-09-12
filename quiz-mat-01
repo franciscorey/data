@@ -1,0 +1,50 @@
+[
+  {
+    "pregunta": "¿Cuánto es la suma?",
+    "opciones": ["2", "3", "4"],
+    "respuesta": "3",
+    "expresion": "🍎 + 🍎 + 🍎 = ?"
+  },
+  {
+    "pregunta": "Resuelve la resta",
+    "opciones": ["1", "2", "3"],
+    "respuesta": "1",
+    "expresion": "🍊🍊 - 🍊 = ?"
+  },
+  {
+    "pregunta": "¿Cuál es el resultado de la multiplicación?",
+    "opciones": ["6", "8", "9"],
+    "respuesta": "6",
+    "expresion": "3 × 🍪 = ?"
+  },
+  {
+    "pregunta": "Divide correctamente",
+    "opciones": ["2", "3", "4"],
+    "respuesta": "2",
+    "expresion": "6 🍬 ÷ 3 = ?"
+  },
+  {
+    "pregunta": "Suma de diferentes frutas",
+    "opciones": ["4", "5", "6"],
+    "respuesta": "5",
+    "expresion": "🍏 + 🍌 + 🍎 + 🍎 + 🍎 = ?"
+  },
+  {
+    "pregunta": "Multiplicación con estrellas",
+    "opciones": ["8", "10", "12"],
+    "respuesta": "8",
+    "expresion": "2 × 🌟🌟🌟🌟 = ?"
+  },
+  {
+    "pregunta": "Resta de sandías",
+    "opciones": ["2", "3", "4"],
+    "respuesta": "2",
+    "expresion": "🍉🍉🍉🍉 - 🍉🍉 = ?"
+  },
+  {
+    "pregunta": "Reparte dulces en partes iguales",
+    "opciones": ["2", "3", "4"],
+    "respuesta": "3",
+    "expresion": "9 🍩 ÷ 3 = ?"
+  }
+]
